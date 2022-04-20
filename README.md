@@ -4,4 +4,4 @@
 
 ### 1a. Determine how to correlate electrical frequency to angular velocity.To do this we count number of poles in the stator. For the motors we will be using, the number of poles will equal the number magnets.  
 
-$\omega[rad/sec] = $\pi *f / n_p
+$\omega [rad/sec] = $\pi *f / n_p
