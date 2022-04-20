@@ -12,7 +12,7 @@ f = 673.93 Hz
 
 w [rad/sec] = (pi)(673.93 Hz) / 14 = 151.23 rad/sec
 
-### 1b. Measure line-to-line  
+### 1b. Measure line-to-line coil resistance
 
 resistance of the leads = 0.1 ohms 
 
