@@ -17,10 +17,16 @@ w [rad/sec] = (pi)(673.93 Hz) / 14 = 151.23 rad/sec
 resistance of the leads = 0.1 ohms 
 
 
-measured LL resistance = 0.26 ohms 
+measured LL resistance (resistance of an individual phase winding) = 0.26 ohms 
 
 
-total LL resistance =  0.26 ohms  - 0.1 ohms  = 0.16 ohms
+measured LL resistance of 1 phase winding - resistance of the leads =  0.26 ohms  - 0.1 ohms  = 0.16 ohms 
+
+Measured line-to-line coil resistance =  2x the resistance of an individual phase winding = 0.16 ohms * 2  = 0.32 ohms
+
+
+
+
 
 
 
