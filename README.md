@@ -12,8 +12,7 @@ f = 673.93 Hz
 
 w [rad/sec] = (pi)(673.93 Hz) / 14 = 151.23 rad/sec
 
-### 1b. Measure line-to-line (also often call phase-to-phase) coil resistance (remember this will by 2x 
-the resistance of an individual phase winding). 
+### 1b. Measure line-to-line  
 
 resistance of the leads = 0.1 ohms 
 
