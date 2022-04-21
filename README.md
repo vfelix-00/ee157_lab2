@@ -32,6 +32,17 @@ Measured line-to-line coil resistance =  2x the resistance of an individual phas
 
 We measured the back EMF by spinning up the motor under power, and then cutting off the power to the ESC (the motor drive component) and then quickly capturing the back EMF as the motor spun down with the ESC off. 
 
+Meaaure values using scope:
+Vpeak-to-peak = 1.8 V
+
+I = 20.1mA
+
+Vphase = Vpeak = 0.9V
+
+Vline-to-line = rad3 * Vphase
+
+Vline-to-line,rms = rad3/2 * Vphase
+
 
 
 
