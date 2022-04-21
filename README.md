@@ -28,8 +28,6 @@ Measured line-to-line coil resistance =  2x the resistance of an individual phas
 
 ### 2a. Back EMF constant 
 
-<img width="153" alt="Screen Shot 2022-04-20 at 7 35 26 PM" src="https://user-images.githubusercontent.com/71578472/164360349-870272a1-09a6-45bb-8c0a-055328aab3d6.png">
-
 We measured the back EMF by spinning up the motor under power, and then cutting off the power to the ESC (the motor drive component) and then quickly capturing the back EMF as the motor spun down with the ESC off. 
 
 Meaaure values using scope:
@@ -45,6 +43,8 @@ Vline-to-line = rad3 * Vphase
 Vline-to-line,rms = rad3/2 * Vphase
 
 Vline-to-line,rms = 1.102 COME BACK
+
+<img width="153" alt="Screen Shot 2022-04-20 at 7 35 26 PM" src="https://user-images.githubusercontent.com/71578472/164360349-870272a1-09a6-45bb-8c0a-055328aab3d6.png">
 
 Kb = Vline-to-line,rms/omega = 1.102 / 151.23 rad/sec = 0.00729 
 
