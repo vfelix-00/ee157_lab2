@@ -24,6 +24,18 @@ measured resistance of 1 phase winding - resistance of the leads =  0.26 ohms  -
 
 Measured line-to-line coil resistance =  2x the resistance of an individual phase winding = 0.16 ohms * 2  = 0.32 ohms
 
+## Part 2: Determining the back EMF constant 
+
+### 2a. Back EMF constant 
+
+<img width="153" alt="Screen Shot 2022-04-20 at 7 35 26 PM" src="https://user-images.githubusercontent.com/71578472/164360349-870272a1-09a6-45bb-8c0a-055328aab3d6.png">
+
+We measured the back EMF by spinning up the motor under power, and then cutting off the power to the ESC (the motor drive component) and then quickly capturing the back EMF as the motor spun down with the ESC off. 
+
+
+
+
+
 
 
 
