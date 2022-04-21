@@ -48,8 +48,12 @@ Vline-to-line,rms = 1.102
 
 Kb = Vline-to-line,rms/omega = 1.102 / 151.23 rad/sec = 0.00729 
 
+### 2b. Back EMF Voltage
 
 
+<img width="172" alt="Screen Shot 2022-04-20 at 8 03 14 PM" src="https://user-images.githubusercontent.com/71578472/164363404-6062548d-7bff-4e94-93a3-b4d40b6ab98a.png">
+
+Vemf = Vline-to-line - IRline-to-line = (rad3 * 0.9V) - (20.1mA * 0.32 ohms) = 4.87 V
 
 
 
