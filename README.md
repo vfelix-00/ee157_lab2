@@ -71,6 +71,15 @@ k_T = sqrt(3) * k_b = sqrt(3) * 0.00729 = 0.0126
 k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoil) = 0.0126 / sqrt(0.32 ohms) = 0.0223 Nm/ sqrt(w) 
 
 
+## Part 4 Characterizing drag torque (hysteresis and eddy current)
+
+<img width="135" alt="Screen Shot 2022-04-21 at 12 51 17 AM" src="https://user-images.githubusercontent.com/71578472/164406364-04889d11-aaad-4980-ad71-8d5f8e8b1321.png">
+
+
+<img width="371" alt="Screen Shot 2022-04-21 at 12 52 57 AM" src="https://user-images.githubusercontent.com/71578472/164406698-1f8601a4-7ada-4228-8430-741de62b73be.png">
+
+
+
 
 ## 1400 kV Motor
 
@@ -140,6 +149,11 @@ for a 3-phase motor:
 k_T = sqrt(3) * k_b = sqrt(3) * 0.0055 = 0.0095
 
 k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoil) = 0.0095 / sqrt(0.4 ohms) = 0.0150 Nm/ sqrt(w) 
+
+
+## Part 4 Characterizing drag torque (hysteresis and eddy current)
+
+<img width="135" alt="Screen Shot 2022-04-21 at 12 51 17 AM" src="https://user-images.githubusercontent.com/71578472/164406364-04889d11-aaad-4980-ad71-8d5f8e8b1321.png">
 
 
 
