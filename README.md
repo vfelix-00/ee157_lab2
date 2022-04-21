@@ -42,7 +42,7 @@ Vline-to-line = rad3 * Vphase
 
 Vline-to-line,rms = rad3/2 * Vphase
 
-Vline-to-line,rms = 1.102 COME BACK
+Vline-to-line,rms = 1.102 
 
 <img width="153" alt="Screen Shot 2022-04-20 at 7 35 26 PM" src="https://user-images.githubusercontent.com/71578472/164360349-870272a1-09a6-45bb-8c0a-055328aab3d6.png">
 
