@@ -60,6 +60,12 @@ Kb = Vline-to-line,rms/omega = 1.102 / 151.23 rad/sec = 0.00729
 
 Vemf = Vline-to-line - IRline-to-line = (rad3 * 0.9V) - (20.1mA * 0.32 ohms) = 1.559 V
 
+## Part 3: Km
+
+Now that we have Kb (and can deduce Kt), we found the motor constant, Km, using the resistance we measured.
+
+
+
 
 
 
