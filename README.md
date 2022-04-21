@@ -66,7 +66,9 @@ Now that we have Kb (and can deduce Kt), we found the motor constant, Km, using 
 
 for a 3-phase motor:
 
-k_T = 
+k_T = sqrt(3) * k_b = sqrt(3) * 0.00729 = 0.0126 
+
+k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoil) = 0.0126 / sqrt(0.32 ohms) = 0.0223 Nm/ sqrt(w) 
 
 
 
