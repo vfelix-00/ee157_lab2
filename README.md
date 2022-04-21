@@ -43,9 +43,9 @@ I = 20.1mA
 
 Vphase = Vpeak = 0.9V
 
-Vline-to-line = rad3 * Vphase
+Vline-to-line = sqrt(3) * Vphase
 
-Vline-to-line,rms = rad3/2 * Vphase
+Vline-to-line,rms = sqrt(3/2) * Vphase
 
 Vline-to-line,rms = 1.102 
 
@@ -58,11 +58,15 @@ Kb = Vline-to-line,rms/omega = 1.102 / 151.23 rad/sec = 0.00729
 
 <img width="172" alt="Screen Shot 2022-04-20 at 8 03 14 PM" src="https://user-images.githubusercontent.com/71578472/164363404-6062548d-7bff-4e94-93a3-b4d40b6ab98a.png">
 
-Vemf = Vline-to-line - IRline-to-line = (rad3 * 0.9V) - (20.1mA * 0.32 ohms) = 1.559 V
+Vemf = Vline-to-line - IRline-to-line = (sqrt(3) * 0.9V) - (20.1mA * 0.32 ohms) = 1.559 V
 
 ## Part 3: Km
 
 Now that we have Kb (and can deduce Kt), we found the motor constant, Km, using the resistance we measured.
+
+for a 3-phase motor:
+
+k_T = 
 
 
 
