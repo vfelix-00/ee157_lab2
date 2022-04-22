@@ -168,6 +168,11 @@ k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoi
 
 
 
+<img width="417" alt="Screen Shot 2022-04-21 at 11 28 00 PM" src="https://user-images.githubusercontent.com/71578472/164616261-d9dd2280-1fa4-4e3d-a7fa-c7583407b76e.png">
+
+
+
+
 
 
 
