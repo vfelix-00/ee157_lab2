@@ -83,6 +83,9 @@ k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoi
 <img width="371" alt="Screen Shot 2022-04-21 at 12 52 57 AM" src="https://user-images.githubusercontent.com/71578472/164406698-1f8601a4-7ada-4228-8430-741de62b73be.png">
 
 
+![IMG_0110](https://user-images.githubusercontent.com/71578472/164612596-7488cfac-67b7-4b1a-9851-4c81a74bae73.jpeg)
+
+
 
 
 ## 1400 kV Motor
