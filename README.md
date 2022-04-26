@@ -16,6 +16,9 @@ In this lab, we reviewed 3-phase systems and experimentally determined basic mot
 
 ## Procedure 
 
+For the set up, the input of the ESC was connected to a 5V power supply. The output of the ESC was connected to a hobby motor. The hobby motor was taped down so that it could spin in a stable manner. 
+
+
 
 
 
