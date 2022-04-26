@@ -218,7 +218,9 @@ Since, dlambda/dtheta = Vphase/w = Kb,phaseline-to-neutralwsin(Np/2wt +/- pi/6),
 For an angular velocity of 385.714 rad/s, there was 0.003828 Nm of torque calculated. For an angular velocity of 964.285 rad/s, there was 0.004127 Nm of torque calculated. For an angular velocity of 1257.142 rad/s, there was 0.006189 Nm of torque calculated.
 
 
+## Conclusion 
 
+In conclusion, we learned how to measure important values of a motor without a datasheet. This can prove to be useful when it comes to our project that involves building a Halback motor. 
 
 
 
