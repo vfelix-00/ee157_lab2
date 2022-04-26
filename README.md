@@ -201,9 +201,9 @@ k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoi
 
 <img width="135" alt="Screen Shot 2022-04-21 at 12 51 17 AM" src="https://user-images.githubusercontent.com/71578472/164406364-04889d11-aaad-4980-ad71-8d5f8e8b1321.png">
 
+![Open lab2-1](https://user-images.githubusercontent.com/71578472/165275280-7f73b69c-bcd4-4552-9799-c7d99dd4e4c7.jpeg)
 
 
-<img width="380" alt="Screen Shot 2022-04-21 at 12 56 32 AM" src="https://user-images.githubusercontent.com/71578472/164407419-9d93b01a-83f0-43bd-9bf9-8210a4bcdc4c.png">
 
 We fitted an ideal EMF curve for one cycle of Vphase when the angular velocity was equal to 385.71 rad/sec. 
 
@@ -211,7 +211,8 @@ We used Kb to plot the ideal EMF curve over one cycle of the measured phase-to-p
 
 Since, dlambda/dtheta = Vphase/w = Kb,phaseline-to-neutralwsin(Np/2wt +/- pi/6), there's a phase shift of +/- pi/6 because this is a 3-phase motor. The current was multiplied by dlambda/dtheta in order to obtain the instantaneous torque. To calculate Tavg, we averaged the instantaneous torque and multiplied by three. We repeated the process to show that eddy current and hystersis drag torque increases in an approximate linear manner with respect to angular velocity. 
 
-<img width="412" alt="Screen Shot 2022-04-21 at 11 31 05 PM" src="https://user-images.githubusercontent.com/71578472/164616646-632e5a7b-ee7b-4fcc-b232-7e59ae19716d.png">
+![Open lab2-3](https://user-images.githubusercontent.com/71578472/165275326-eb930da1-9bdf-4202-9974-c8fab7b45fd8.jpeg)
+
 
 
 For an angular velocity of 385.714 rad/s, there was 0.003828 Nm of torque calculated. For an angular velocity of 964.285 rad/s, there was 0.004127 Nm of torque calculated. For an angular velocity of 1257.142 rad/s, there was 0.006189 Nm of torque calculated.
