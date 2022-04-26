@@ -1,7 +1,10 @@
 # EE 157 Motor and Drives
 
-## 1000 kV Motor
+## Introduction 
 
+In this lab, we reviewed 3-phase systems and experimentally determined basic motor constants (Kb, K𝜏, etc.). We then calculated eddy current losses and hystersis loss. 
+
+## 1000 kV Motor
 
 ## Part 1: Resistance measurements
 
