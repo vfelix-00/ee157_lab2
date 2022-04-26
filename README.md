@@ -111,9 +111,16 @@ k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoi
 
 <img width="371" alt="Screen Shot 2022-04-21 at 12 52 57 AM" src="https://user-images.githubusercontent.com/71578472/164406698-1f8601a4-7ada-4228-8430-741de62b73be.png">
 
+We used Kb to plot the ideal EMF curve over one cycle of the measured phase-to-phase voltage given the equation Vphase = Kb,phaseline-to-neutralwsin(Np/2wt). 
+
+Since, dlambda/dtheta = Vphase/w = Kb,phaseline-to-neutralwsin(Np/2wt +/- pi/6), there's a phase shift of +/- pi/6 because this is a 3-phase motor.The current was multiplied by dlambda/dtheta in order to obtain the instantaneous torque. To calculate Tavg, we averaged the instantaneous torque and multiplied by three. We repeated the process to show that eddy current and hystersis drag torque increases in an approximate linear manner with respect to angular velocity. 
+
+
 <img width="402" alt="Screen Shot 2022-04-21 at 11 30 40 PM" src="https://user-images.githubusercontent.com/71578472/164616585-3d576a2e-574f-43f6-baa1-379ea67d5c1e.png">
 
 
+
+![Screenshot 2022-04-26 at 2 39 08 AM](https://user-images.githubusercontent.com/71578472/165271229-6ad1a0e3-11fc-494a-b4f0-c8bf819a3439.jpeg)
 
 
 
