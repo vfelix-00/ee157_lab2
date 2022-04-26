@@ -109,7 +109,8 @@ k_m = Tavg / sqrt(Ploss) = (k_T* i_rms) / sqrt(i_rms^2 * Rcoil = k_T / sqrt(Rcoi
 <img width="135" alt="Screen Shot 2022-04-21 at 12 51 17 AM" src="https://user-images.githubusercontent.com/71578472/164406364-04889d11-aaad-4980-ad71-8d5f8e8b1321.png">
 
 
-<img width="371" alt="Screen Shot 2022-04-21 at 12 52 57 AM" src="https://user-images.githubusercontent.com/71578472/164406698-1f8601a4-7ada-4228-8430-741de62b73be.png">
+
+
 
 We fitted an ideal EMF curve for one cycle of Vphase when the angular velocity was equal to 1428.57 rad/sec. 
 
