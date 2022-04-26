@@ -18,7 +18,13 @@ In this lab, we reviewed 3-phase systems and experimentally determined basic mot
 
 For the set up, the input of the ESC was connected to a 5V power supply. The output of the ESC was connected to a hobby motor. The hobby motor was taped down so that it could spin in a stable manner. 
 
+The contact resistance of the multimeter was measured and recorded. The coil resistance of the motor was measured across two terminals and was later used to calculate the line-to-line resistance.  
 
+The current probe was connected to one wire of the hobby motor, the positive and ground voltage were then connected to the terminals of the other two wires of the motor. The ESC was turned on and then quickly turned off to measure the current, voltage frequency, and amplitutude as the motor slowed down. These measurements were then used to calculate the back EMF and motor constants. 
+
+We then recorded waveforms at different speeds. We turned the ESC back on at different speeds and recorded at least one period of the voltage and current. These measurements were later used to calculate losses due to hysteresis drag and eddy current drag and the relationship between torque and angular velocity. 
+
+The process above was then repeated for the 1400 kV motor. 
 
 
 
